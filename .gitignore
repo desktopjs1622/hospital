@@ -1,0 +1,9 @@
+bin/*
+hospital/.vscode
+include/*
+lib64
+pyvenv.cfg
+share/*
+Scripts/*
+pip-selfcheck.json
+requirements.txt
